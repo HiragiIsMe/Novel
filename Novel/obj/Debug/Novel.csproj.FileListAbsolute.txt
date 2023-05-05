@@ -1,0 +1,15 @@
+C:\Users\PC 08\source\repos\Novel\Novel\bin\Debug\Novel.exe.config
+C:\Users\PC 08\source\repos\Novel\Novel\bin\Debug\Novel.exe
+C:\Users\PC 08\source\repos\Novel\Novel\bin\Debug\Novel.pdb
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.csproj.AssemblyReference.cache
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.MainLogin.resources
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.Properties.Resources.resources
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.csproj.GenerateResource.cache
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.csproj.CoreCompileInputs.cache
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.exe
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.pdb
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.MainForm.resources
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.MasterUser.resources
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.MasterGenre.resources
+C:\Users\PC 08\source\repos\Novel\Novel\obj\Debug\Novel.MasterNovel.resources
